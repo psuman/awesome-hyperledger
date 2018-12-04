@@ -3,26 +3,26 @@
 A curated list of resources for hyperledger
 
 * Hyperledger Fabric
-  * [Fabdric Docs)(#Fabric Docs)
-  * [Fabric Articles](#Fabric Articles)
-  * [Fabric Videos](#Fabric Videos)
+  * [Fabdric Docs](#Fabric_Docs)
+  * [Fabric Articles](#Fabric_Articles)
+  * [Fabric Videos](#Fabric_Videos)
   
 * Hyperledger Sawtooth
-  * Sawtooth Docs(#Sawtooth Docs)
-  * Sawtooth Articles(#Sawtooth Articles)
-  * Sawtooth Videos(#Sawtooth Videos)
+  * [Sawtooth Docs](#Sawtooth_Docs)
+  * [Sawtooth Articles](#Sawtooth_Articles)
+  * [Sawtooth Videos](#Sawtooth_Videos)
   
- ## Fabric Docts
+ ## Fabric_Docs
  
- ## Fabric Articles
+ ## Fabric_Articles
  
- ## Fabric Videos
+ ## Fabric_Videos
  
- ## Sawtooth Docts
+ ## Sawtooth_Docs
 
- ## Sawtooth Articles
+ ## Sawtooth_Articles
  
- ## Sawtooth Videos
+ ## Sawtooth_Videos
  
 
 
