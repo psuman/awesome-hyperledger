@@ -3,15 +3,16 @@
 A curated list of resources for hyperledger
 
 * Hyperledger Fabric
-  * Articles
-  * Videos
-  * Sample Projects
-  * Papers
+  * [Fabric Articles](#Articles)
+  * Fabric Videos
+  * Fabric Sample Projects
+  * Fabric Papers
   
 * Hyperledger Sawtooth
-  * Articles
-  * Videos
-  * Sample Projects
-  * Papers
+  * Fabric Articles
+  * Fabric Videos
+  * Fabric Sample Projects
+  * Fabric Papers
  
+ ## Articles
 
