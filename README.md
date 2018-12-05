@@ -13,12 +13,12 @@ A curated list of resources for hyperledger
   * [Sawtooth Videos](#Sawtooth_Videos)
   
 ## Hyperledger Tools/libs/papers
-  [modular, flexible cryptography library](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)
-  [Hyperledger Consensus](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)
-  [Hyperledger Introduction](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
+  * [Modular, flexible cryptography library](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)
+  * [Hyperledger Consensus](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)
+  * [Hyperledger Introduction](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
   
 ## Hyperledger Cloud
-  [Amazon blockchain services](https://www.techrepublic.com/article/faq-what-amazons-blockchain-services-mean-for-your-business)
+  * [Amazon blockchain services](https://www.techrepublic.com/article/faq-what-amazons-blockchain-services-mean-for-your-business)
   
   
 ## Fabric_Docs
