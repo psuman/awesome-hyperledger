@@ -16,6 +16,7 @@ A curated list of resources for hyperledger
   * [Modular, flexible cryptography library](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)
   * [Hyperledger Consensus](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)
   * [Hyperledger Introduction](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
+  * [Is Hyperledger Good fit for enterprises?](https://chaindigit.com/why-hyperledger%3F)
   
 ## Hyperledger Cloud
   * [Amazon blockchain services](https://www.techrepublic.com/article/faq-what-amazons-blockchain-services-mean-for-your-business)
