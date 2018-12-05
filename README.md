@@ -12,8 +12,10 @@ A curated list of resources for hyperledger
   * [Sawtooth Articles](#Sawtooth_Articles)
   * [Sawtooth Videos](#Sawtooth_Videos)
   
-## Hyperledger Tools/Resources
+## Hyperledger Tools/libs/papers
   [modular, flexible cryptography library](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)
+  [Hyperledger Consensus](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)
+  [Hyperledger Introduction](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
   
 ## Hyperledger Cloud
   [Amazon blockchain services](https://www.techrepublic.com/article/faq-what-amazons-blockchain-services-mean-for-your-business)
@@ -23,7 +25,8 @@ A curated list of resources for hyperledger
  
 ## Fabric_Articles
  [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
- 
+ [Fabric Paper](https://arxiv.org/pdf/1801.10228.pdf)
+  
 ## Fabric_Videos
  
 ## Sawtooth_Docs
