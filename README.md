@@ -25,8 +25,8 @@ A curated list of resources for hyperledger
 ## Fabric_Docs
  
 ## Fabric_Articles
- [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
- [Fabric Paper](https://arxiv.org/pdf/1801.10228.pdf)
+ * [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
+ * [Fabric Paper](https://arxiv.org/pdf/1801.10228.pdf)
   
 ## Fabric_Videos
  
