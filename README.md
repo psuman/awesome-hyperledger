@@ -2,6 +2,9 @@
 
 A curated list of resources for hyperledger
 
+## Hyperledger Youtube
+  * [Youtube Channel](https://www.youtube.com/playlist?list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf)
+
 ## Hyperledger Fabric
   * [Fabdric Docs](#Fabric_Docs)
   * [Fabric Articles](#Fabric_Articles)
@@ -20,8 +23,7 @@ A curated list of resources for hyperledger
   
 ## Hyperledger Cloud
   * [Amazon blockchain services](https://www.techrepublic.com/article/faq-what-amazons-blockchain-services-mean-for-your-business)
-  
-  
+    
 ## Fabric_Docs
  
 ## Fabric_Articles
