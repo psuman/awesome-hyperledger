@@ -25,6 +25,8 @@ A curated list of resources for hyperledger
 ## Fabric_Docs
  * [official docs](https://hyperledger-fabric.readthedocs.io/)
  * [Node SDK](https://fabric-sdk-node.github.io)
+ * [Client Identity Library and Atrribute based access control](https://github.com/hyperledger/fabric/blob/release-1.1/core/chaincode/lib/cid/README.md)
+ * [Chaincode install and instantiate](https://hyperledger-fabric.readthedocs.io/en/stable/install_instantiate.html)
  
 ## Fabric_Articles
  * [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
