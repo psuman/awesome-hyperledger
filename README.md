@@ -45,9 +45,9 @@ A curated list of resources for hyperledger
  * [Sawtooth release 1.1](https://www.hyperledger.org/blog/2018/12/06/announcing-hyperledger-sawtooth-1-1)
 
 ## Sawtooth_Articles
- * [Sawtooth Security Part1](https://www.hyperledger.org/blog/2018/11/09/hyperledger-sawtooth-blockchain-security-part-one)
- * [Sawtooth Security Part2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
- * [Sawtooth Security Part3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
+ * [Sawtooth Security Part-1](https://www.hyperledger.org/blog/2018/11/09/hyperledger-sawtooth-blockchain-security-part-one)
+ * [Sawtooth Security Part-2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
+ * [Sawtooth Security Part-3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
 
 ## Sawtooth_Videos
 
