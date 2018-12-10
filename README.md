@@ -32,7 +32,7 @@ A curated list of resources for hyperledger
 ## Fabric_Articles
  * [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
  * [Fabric Paper](https://arxiv.org/pdf/1801.10228.pdf)
- * [Setting up hyperledger fabric network with multiple channels and chaincodes]((https://www.skcript.com/svr/setting-hyperledger-fabric-network-multiple-chaincodes-channels/)
+ * [Setting up hyperledger fabric network with multiple channels and chaincodes](https://www.skcript.com/svr/setting-hyperledger-fabric-network-multiple-chaincodes-channels/)
   
 ## Fabric_Videos
  
