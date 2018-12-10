@@ -11,6 +11,7 @@ A curated list of resources for hyperledger
   * [Sawtooth Docs](#Sawtooth_Docs)
   * [Sawtooth Articles](#Sawtooth_Articles)
   * [Sawtooth Videos](#Sawtooth_Videos)
+  * [Sawtooth Applications](#Sawtooth_Applications)
   
 ## Hyperledger Tools/libs/papers
   * [Youtube Channel](https://www.youtube.com/playlist?list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf)
@@ -31,17 +32,28 @@ A curated list of resources for hyperledger
 ## Fabric_Articles
  * [Deploying Fabric on Kubernetes](https://www.hyperledger.org/blog/2018/11/08/deploying-hyperledger-fabric-on-kubernetes)
  * [Fabric Paper](https://arxiv.org/pdf/1801.10228.pdf)
+ 
   
 ## Fabric_Videos
  
 ## Sawtooth_Docs
- * [sawtooth core](https://sawtooth.hyperledger.org/docs/core/releases/latest/)
- * [sawtooth sabre](https://sawtooth.hyperledger.org/docs/sabre/releases/latest/)
- * [sawtooth seth](https://sawtooth.hyperledger.org/docs/seth/releases/latest/)
+ * [Sawtooth Core](https://sawtooth.hyperledger.org/docs/core/releases/latest/)
+ * [Sawtooth Sabre](https://sawtooth.hyperledger.org/docs/sabre/releases/latest/)
+ * [Sawtooth Seth](https://sawtooth.hyperledger.org/docs/seth/releases/latest/)
+ * [Sawtooth Explorer](https://github.com/hyperledger/sawtooth-explorer)
+ * [Sawtooth Monitoring Grafana](https://sawtooth.hyperledger.org/docs/core/nightly/master/sysadmin_guide/grafana_configuration.html)
+ * [Sawtooth release 1.1](https://www.hyperledger.org/blog/2018/12/06/announcing-hyperledger-sawtooth-1-1)
 
 ## Sawtooth_Articles
- 
+ * [Sawtooth Security Part1](https://www.hyperledger.org/blog/2018/11/09/hyperledger-sawtooth-blockchain-security-part-one)
+ * [Sawtooth Security Part2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
+ * [Sawtooth Security Part3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
+
 ## Sawtooth_Videos
+
+## Sawtooth_Applications
+ * [Sawtooth Supply chain](https://github.com/hyperledger/sawtooth-supply-chain)
+ * [Sawtooth Next Directory](https://github.com/hyperledger/sawtooth-next-directory)
  
 
 
