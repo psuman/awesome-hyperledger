@@ -43,13 +43,16 @@ A curated list of resources for hyperledger
  * [Sawtooth Explorer](https://github.com/hyperledger/sawtooth-explorer)
  * [Sawtooth Monitoring Grafana](https://sawtooth.hyperledger.org/docs/core/nightly/master/sysadmin_guide/grafana_configuration.html)
  * [Sawtooth release 1.1](https://www.hyperledger.org/blog/2018/12/06/announcing-hyperledger-sawtooth-1-1)
+ * [Truffle Sawtooth Seth Provider](https://github.com/trufflesuite/truffle/tree/next/packages/truffle-sawtooth-seth-provider)
 
 ## Sawtooth_Articles
  * [Sawtooth Security Part-1](https://www.hyperledger.org/blog/2018/11/09/hyperledger-sawtooth-blockchain-security-part-one)
  * [Sawtooth Security Part-2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
  * [Sawtooth Security Part-3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
+ * [Private Data Objects](https://arxiv.org/pdf/1807.05686.pdf)
 
 ## Sawtooth_Videos
+ * [Sawtooth Private Data Objects](https://www.youtube.com/watch?v=I1HbFPwo4gg)
 
 ## Sawtooth_Applications
  * [Sawtooth Supply chain](https://github.com/hyperledger/sawtooth-supply-chain)
