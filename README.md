@@ -51,6 +51,7 @@ A curated list of resources for hyperledger
  * [Sawtooth Security Part-2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
  * [Sawtooth Security Part-3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
  * [Private Data Objects](https://arxiv.org/pdf/1807.05686.pdf)
+ * [Sawtooth White Paper](https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_WhitePaper.pdf)
 
 ## Sawtooth_Videos
  * [Sawtooth Private Data Objects](https://www.youtube.com/watch?v=I1HbFPwo4gg)
