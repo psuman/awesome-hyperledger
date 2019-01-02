@@ -50,6 +50,8 @@ A curated list of resources for hyperledger
  * [Sawtooth Security Part-1](https://www.hyperledger.org/blog/2018/11/09/hyperledger-sawtooth-blockchain-security-part-one)
  * [Sawtooth Security Part-2](https://www.hyperledger.org/blog/2018/11/23/hyperledger-sawtooth-blockchain-security-part-two)
  * [Sawtooth Security Part-3](https://www.hyperledger.org/blog/2018/12/07/hyperledger-sawtooth-blockchain-security-part-three)
+ * [Making Dynamic Consensus More Dynamic](https://www.hyperledger.org/blog/2018/12/11/making-dynamic-consensus-more-dynamic)
+ * [Un-pluggable Consensus With Hyperledger Sawtooth](https://www.hyperledger.org/blog/2017/11/22/un-pluggable-consensus-with-hyperledger-sawtooth)
  * [Private Data Objects](https://arxiv.org/pdf/1807.05686.pdf)
  * [Sawtooth White Paper](https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_WhitePaper.pdf)
 
